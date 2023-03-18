@@ -1,0 +1,12 @@
+body {
+	position: absolute;
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	overflow: hidden;	
+	display: flex;			
+}
+#cvs {
+	margin: auto;
+	border: 1px solid black;
+}
